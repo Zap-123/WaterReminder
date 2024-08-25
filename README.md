@@ -43,10 +43,13 @@ When starting the program, you will see a small window that has **3 Entries:**
 * **Key to Re-Open Window**  
 
 Each entry can be modified to your liking.  
-Once Filling out all of the entries with your desired settings, save your changes by clicking the **Submit Button**.
-Finally, close out of the tab and the program will run in the background! You should recieve a **confirmation notification**, ensuring that the program is running.
 
-If you feel the need to go back and edit your settings, click on the default **']'** key (or whichever key you specified while changing the settings), to open up the **HUB WINDOW**.
-To stop the program entirely, open up the **Hub Window** and click the **STOP ALL** button.
+Once Filling out all of the entries with your desired settings, save your changes by clicking the **Submit Button**.
+
+Finally, close out of the tab and the program will run in the background! You should receive a **confirmation notification**, ensuring that the program is running.
+
+If you need to go back and edit your settings, click on the default **']'** key (or whichever key you specified while changing the settings), to open up the **HUB WINDOW**.
+
+To stop the program entirely, open the **Hub Window** and click the **STOP ALL** button.
 
 **Have Fun & Stay Hydrated!**      
