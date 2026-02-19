@@ -3,7 +3,7 @@
 **A Python desktop reminder tool that helps users stay hydrated by scheduling customizable notifications.**
 
 ## Overview
-I, too, always forget to stay hydrated during long sessions on the computer. Fear not! This program is a friendly reminder for you to stay hydrated!
+I, too, always forget to stay hydrated during long sessions on the computer. Fear not! This program is a friendly reminder for you to stay hydrated! This program sends notification cards at the bottom right of your screen in intervals of your choosing.
 
 ## Features
 - Custom reminder intervals
