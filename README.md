@@ -1,5 +1,15 @@
 # Python Water Reminder
 
+**A Python desktop reminder tool that helps users stay hydrated by scheduling customizable notifications.**
+
+## Overview
+I, too, always forget to stay hydrated during long sessions on the computer. Fear not! This program is a friendly reminder for you to stay hydrated!
+
+## Features
+- Custom reminder intervals
+- Custom reminder messages
+- GUI interface using Tkinter
+
 ## Installation  
 
 To use the program, you will first need to install a few modules. The modules are as following:  
